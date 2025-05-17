@@ -720,7 +720,7 @@ webpackJsonp([1], {
         // console.log(this.project().length)
         // console.log(window.innerHeight)
         // console.log(this.project().length * window.innerHeight * 1.5 * .9 / c / c + 3 + "px")
-        return this.project().length * window.innerHeight * 1.31 * .9 / c / c + 3  + "px"
+        return this.project().length * window.innerHeight * 1.35 * .9 / c / c + 3  + "px"
       },
 
       // 获取原始项目容器的宽度，并赋值给变量 a
